@@ -19,7 +19,7 @@ This is some technologies, that I know.
 ## :link: Social Media
 Do you want more? Take a look in my personal/professional profiles:
 
-- Linkedin: [/fernando-povinsky](https://www.linkedin.com/in/fernando-povinsky-439868169/)
+- Linkedin: [/fernando-povinsky](https://www.linkedin.com/in/fernando-povinsky/)
 - Instagram: [/fernando-povinsky](https://www.instagram.com/yloxt_/)
 
 ## :bar_chart: Statistics
