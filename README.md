@@ -1,4 +1,4 @@
-# Hello, I'm Lost (Most known as Fernando)!
+# Hello, I'm Fernando (Most known as Lost in social medias)!
 
 I'm a FullStack Developer, with knowledge in developing integrated, clean and modern systems. With knowledge in the following skills: JavaScript and its frameworks (React JS/TS, React Native, NodeJS, NextJs), REST API, Database.
 
